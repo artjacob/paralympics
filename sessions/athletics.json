@@ -136,7 +136,11 @@
 						"type": "Track"
 					}
 				}
-			]
+			],
+			"tickets": {
+				"price": 20,
+				"url": "https://ingressos.rio2016.com/rio2016.html?affiliate=PGF&doc=sessionDetails&key=1447652$6747254&fun=evdetail"
+			}
 		},
 		{
 			"session": "PAT02",
@@ -333,7 +337,11 @@
 						"type": "Track"
 					}
 				}
-			]
+			],
+			"tickets": {
+				"price": 50,
+				"url": "https://ingressos.rio2016.com/rio2016.html?affiliate=PGF&doc=sessionDetails&key=1447652$6747256&fun=evdetail"
+			}
 		},
 		{
 			"session": "PAT03",
@@ -510,7 +518,11 @@
 						"type": "Field"
 					}
 				}
-			]
+			],
+			"tickets": {
+				"price": 20,
+				"url": "https://ingressos.rio2016.com/rio2016.html?affiliate=PGF&doc=sessionDetails&key=1447652$6747257&fun=evdetail"
+			}
 		},
 		{
 			"session": "PAT04",
@@ -807,7 +819,11 @@
 						"type": "Track"
 					}
 				}
-			]
+			],
+			"tickets": {
+				"price": 70,
+				"url": "https://ingressos.rio2016.com/rio2016.html?affiliate=PGF&doc=sessionDetails&key=1447652$6747258&fun=evdetail"
+			}
 		},
 		{
 			"session": "PAT05",
@@ -994,7 +1010,11 @@
 						"type": "Track"
 					}
 				}
-			]
+			],
+			"tickets": {
+				"price": 20,
+				"url": "https://ingressos.rio2016.com/rio2016.html?affiliate=PGF&doc=sessionDetails&key=1447652$6747255&fun=evdetail"
+			}
 		},
 		{
 			"session": "PAT06",
@@ -1221,7 +1241,11 @@
 						"type": "Track"
 					}
 				}
-			]
+			],
+			"tickets": {
+				"price": 50,
+				"url": "https://ingressos.rio2016.com/rio2016.html?affiliate=PGF&doc=sessionDetails&key=1447652$6747261&fun=evdetail"
+			}
 		},
 		{
 			"session": "PAT07",
@@ -1468,7 +1492,11 @@
 						"type": "Field"
 					}
 				}
-			]
+			],
+			"tickets": {
+				"price": 20,
+				"url": "https://ingressos.rio2016.com/rio2016.html?affiliate=PGF&doc=sessionDetails&key=1447652$6747259&fun=evdetail"
+			}
 		},
 		{
 			"session": "PAT08",
@@ -1695,7 +1723,11 @@
 						"type": "Track"
 					}
 				}
-			]
+			],
+			"tickets": {
+				"price": 50,
+				"url": "https://ingressos.rio2016.com/rio2016.html?affiliate=PGF&doc=sessionDetails&key=1447652$6747260&fun=evdetail"
+			}
 		},
 		{
 			"session": "PAT09",
@@ -1872,7 +1904,11 @@
 						"type": "Field"
 					}
 				}
-			]
+			],
+			"tickets": {
+				"price": 20,
+				"url": "https://ingressos.rio2016.com/rio2016.html?affiliate=PGF&doc=sessionDetails&key=1447652$6747265&fun=evdetail"
+			}
 		},
 		{
 			"session": "PAT10",
@@ -2079,7 +2115,11 @@
 						"type": "Track"
 					}
 				}
-			]
+			],
+			"tickets": {
+				"price": 70,
+				"url": "https://ingressos.rio2016.com/rio2016.html?affiliate=PGF&doc=sessionDetails&key=1447652$6747267&fun=evdetail"
+			}
 		},
 		{
 			"session": "PAT11",
@@ -2316,7 +2356,11 @@
 						"type": "Track"
 					}
 				}
-			]
+			],
+			"tickets": {
+				"price": 20,
+				"url": "https://ingressos.rio2016.com/rio2016.html?affiliate=PGF&doc=sessionDetails&key=1447652$6747270&fun=evdetail"
+			}
 		},
 		{
 			"session": "PAT12",
@@ -2533,7 +2577,11 @@
 						"type": "Field"
 					}
 				}
-			]
+			],
+			"tickets": {
+				"price": 50,
+				"url": "https://ingressos.rio2016.com/rio2016.html?affiliate=PGF&doc=sessionDetails&key=1447652$6747263&fun=evdetail"
+			}
 		},
 		{
 			"session": "PAT13",
@@ -2730,7 +2778,11 @@
 						"type": "Field"
 					}
 				}
-			]
+			],
+			"tickets": {
+				"price": 20,
+				"url": "https://ingressos.rio2016.com/rio2016.html?affiliate=PGF&doc=sessionDetails&key=1447652$6747262&fun=evdetail"
+			}
 		},
 		{
 			"session": "PAT14",
@@ -2917,7 +2969,11 @@
 						"type": "Track"
 					}
 				}
-			]
+			],
+			"tickets": {
+				"price": 50,
+				"url": "https://ingressos.rio2016.com/rio2016.html?affiliate=PGF&doc=sessionDetails&key=1447652$6747266&fun=evdetail"
+			}
 		},
 		{
 			"session": "PAT15",
@@ -3134,7 +3190,11 @@
 						"type": "Track"
 					}
 				}
-			]
+			],
+			"tickets": {
+				"price": 20,
+				"url": "https://ingressos.rio2016.com/rio2016.html?affiliate=PGF&doc=sessionDetails&key=1447652$6747271&fun=evdetail"
+			}
 		},
 		{
 			"session": "PAT16",
@@ -3401,7 +3461,11 @@
 						"type": "Track"
 					}
 				}
-			]
+			],
+			"tickets": {
+				"price": 50,
+				"url": "https://ingressos.rio2016.com/rio2016.html?affiliate=PGF&doc=sessionDetails&key=1447652$6747272&fun=evdetail"
+			}
 		},
 		{
 			"session": "PAT17",
@@ -3598,7 +3662,11 @@
 						"type": "Field"
 					}
 				}
-			]
+			],
+			"tickets": {
+				"price": 20,
+				"url": "https://ingressos.rio2016.com/rio2016.html?affiliate=PGF&doc=sessionDetails&key=1447652$6747269&fun=evdetail"
+			}
 		},
 		{
 			"session": "PAT18",
@@ -3795,7 +3863,11 @@
 						"type": "Field"
 					}
 				}
-			]
+			],
+			"tickets": {
+				"price": 50,
+				"url": "https://ingressos.rio2016.com/rio2016.html?affiliate=PGF&doc=sessionDetails&key=1447652$6747268&fun=evdetail"
+			}
 		},
 		{
 			"session": "PAT19",
@@ -4012,7 +4084,11 @@
 						"type": "Field"
 					}
 				}
-			]
+			],
+			"tickets": {
+				"price": 20,
+				"url": "https://ingressos.rio2016.com/rio2016.html?affiliate=PGF&doc=sessionDetails&key=1447652$6747264&fun=evdetail"
+			}
 		},
 		{
 			"session": "PAT20",
@@ -4369,7 +4445,11 @@
 						"type": "Track"
 					}
 				}
-			]
+			],
+			"tickets": {
+				"price": 50,
+				"url": "https://ingressos.rio2016.com/rio2016.html?affiliate=PGF&doc=sessionDetails&key=1447652$6747273&fun=evdetail"
+			}
 		}
 	]
 }
