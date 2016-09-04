@@ -13,8 +13,7 @@
 					"group": {
 						"abbreviation": "T11",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 11
+						"type": "Track"
 					}
 				},
 				{
@@ -24,8 +23,7 @@
 					"group": {
 						"abbreviation": "F32",
 						"condition": "Cerebral palsy",
-						"type": "Field",
-						"level": 32
+						"type": "Field"
 					}
 				},
 				{
@@ -35,8 +33,7 @@
 					"group": {
 						"abbreviation": "F52",
 						"condition": "Wheelchair",
-						"type": "Field",
-						"level": 52
+						"type": "Field"
 					}
 				},
 				{
@@ -46,8 +43,7 @@
 					"group": {
 						"abbreviation": "T11",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 11
+						"type": "Track"
 					}
 				},
 				{
@@ -57,8 +53,7 @@
 					"group": {
 						"abbreviation": "T11",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 11
+						"type": "Track"
 					}
 				},
 				{
@@ -68,8 +63,7 @@
 					"group": {
 						"abbreviation": "F12",
 						"condition": "Visual impairment",
-						"type": "Field",
-						"level": 12
+						"type": "Field"
 					}
 				},
 				{
@@ -79,8 +73,7 @@
 					"group": {
 						"abbreviation": "T12",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 12
+						"type": "Track"
 					}
 				},
 				{
@@ -90,8 +83,7 @@
 					"group": {
 						"abbreviation": "T13",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 13
+						"type": "Track"
 					}
 				},
 				{
@@ -101,8 +93,7 @@
 					"group": {
 						"abbreviation": "T11",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 11
+						"type": "Track"
 					}
 				},
 				{
@@ -112,8 +103,7 @@
 					"group": {
 						"abbreviation": "T12",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 12
+						"type": "Track"
 					}
 				},
 				{
@@ -123,8 +113,7 @@
 					"group": {
 						"abbreviation": "T53",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 53
+						"type": "Track"
 					}
 				},
 				{
@@ -134,8 +123,7 @@
 					"group": {
 						"abbreviation": "F12",
 						"condition": "Visual impairment",
-						"type": "Field",
-						"level": 12
+						"type": "Field"
 					}
 				},
 				{
@@ -145,8 +133,7 @@
 					"group": {
 						"abbreviation": "T11",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 11
+						"type": "Track"
 					}
 				}
 			]
@@ -163,8 +150,7 @@
 					"group": {
 						"abbreviation": "T36",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 36
+						"type": "Track"
 					}
 				},
 				{
@@ -174,8 +160,7 @@
 					"group": {
 						"abbreviation": "F57",
 						"condition": "Wheelchair",
-						"type": "Field",
-						"level": 57
+						"type": "Field"
 					}
 				},
 				{
@@ -185,8 +170,7 @@
 					"group": {
 						"abbreviation": "T44",
 						"condition": "Amputation & Les Autres",
-						"type": "Track",
-						"level": 44
+						"type": "Track"
 					}
 				},
 				{
@@ -196,8 +180,7 @@
 					"group": {
 						"abbreviation": "F41",
 						"condition": "Amputation & Les Autres",
-						"type": "Field",
-						"level": 41
+						"type": "Field"
 					}
 				},
 				{
@@ -207,8 +190,7 @@
 					"group": {
 						"abbreviation": "F32",
 						"condition": "Cerebral palsy",
-						"type": "Field",
-						"level": 32
+						"type": "Field"
 					}
 				},
 				{
@@ -218,8 +200,7 @@
 					"group": {
 						"abbreviation": "F37",
 						"condition": "Cerebral palsy",
-						"type": "Field",
-						"level": 37
+						"type": "Field"
 					}
 				},
 				{
@@ -229,8 +210,7 @@
 					"group": {
 						"abbreviation": "T47",
 						"condition": null,
-						"type": "Track",
-						"level": 47
+						"type": "Track"
 					}
 				},
 				{
@@ -240,8 +220,7 @@
 					"group": {
 						"abbreviation": "T20",
 						"condition": "Intellectual disability",
-						"type": "Track",
-						"level": 20
+						"type": "Track"
 					}
 				},
 				{
@@ -251,8 +230,7 @@
 					"group": {
 						"abbreviation": "F52",
 						"condition": "Wheelchair",
-						"type": "Field",
-						"level": 52
+						"type": "Field"
 					}
 				},
 				{
@@ -262,8 +240,7 @@
 					"group": {
 						"abbreviation": "T12",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 12
+						"type": "Track"
 					}
 				},
 				{
@@ -273,8 +250,7 @@
 					"group": {
 						"abbreviation": "T53",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 53
+						"type": "Track"
 					}
 				},
 				{
@@ -284,8 +260,7 @@
 					"group": {
 						"abbreviation": "T54",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 54
+						"type": "Track"
 					}
 				},
 				{
@@ -295,8 +270,7 @@
 					"group": {
 						"abbreviation": "T13",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 13
+						"type": "Track"
 					}
 				},
 				{
@@ -306,8 +280,7 @@
 					"group": {
 						"abbreviation": "F41",
 						"condition": "Amputation & Les Autres",
-						"type": "Field",
-						"level": 41
+						"type": "Field"
 					}
 				},
 				{
@@ -317,8 +290,7 @@
 					"group": {
 						"abbreviation": "T53",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 53
+						"type": "Track"
 					}
 				},
 				{
@@ -328,8 +300,7 @@
 					"group": {
 						"abbreviation": "T37",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 37
+						"type": "Track"
 					}
 				},
 				{
@@ -339,8 +310,7 @@
 					"group": {
 						"abbreviation": "T38",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 38
+						"type": "Track"
 					}
 				},
 				{
@@ -350,8 +320,7 @@
 					"group": {
 						"abbreviation": "F37",
 						"condition": "Cerebral palsy",
-						"type": "Field",
-						"level": 37
+						"type": "Field"
 					}
 				},
 				{
@@ -361,8 +330,7 @@
 					"group": {
 						"abbreviation": "T47",
 						"condition": null,
-						"type": "Track",
-						"level": 47
+						"type": "Track"
 					}
 				}
 			]
@@ -379,8 +347,7 @@
 					"group": {
 						"abbreviation": "T53",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 53
+						"type": "Track"
 					}
 				},
 				{
@@ -390,8 +357,7 @@
 					"group": {
 						"abbreviation": "F32",
 						"condition": "Cerebral palsy",
-						"type": "Field",
-						"level": 32
+						"type": "Field"
 					}
 				},
 				{
@@ -401,8 +367,7 @@
 					"group": {
 						"abbreviation": "F54",
 						"condition": "Wheelchair",
-						"type": "Field",
-						"level": 54
+						"type": "Field"
 					}
 				},
 				{
@@ -412,8 +377,7 @@
 					"group": {
 						"abbreviation": "T52",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 52
+						"type": "Track"
 					}
 				},
 				{
@@ -423,8 +387,7 @@
 					"group": {
 						"abbreviation": "F57",
 						"condition": "Wheelchair",
-						"type": "Field",
-						"level": 57
+						"type": "Field"
 					}
 				},
 				{
@@ -434,8 +397,7 @@
 					"group": {
 						"abbreviation": "T36",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 36
+						"type": "Track"
 					}
 				},
 				{
@@ -445,8 +407,7 @@
 					"group": {
 						"abbreviation": "T44",
 						"condition": "Amputation & Les Autres",
-						"type": "Track",
-						"level": 44
+						"type": "Track"
 					}
 				},
 				{
@@ -456,8 +417,7 @@
 					"group": {
 						"abbreviation": "T35",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 35
+						"type": "Track"
 					}
 				},
 				{
@@ -467,8 +427,7 @@
 					"group": {
 						"abbreviation": "F41",
 						"condition": "Amputation & Les Autres",
-						"type": "Field",
-						"level": 41
+						"type": "Field"
 					}
 				},
 				{
@@ -478,8 +437,7 @@
 					"group": {
 						"abbreviation": "T13",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 13
+						"type": "Track"
 					}
 				},
 				{
@@ -489,8 +447,7 @@
 					"group": {
 						"abbreviation": "T20",
 						"condition": "Intellectual disability",
-						"type": "Track",
-						"level": 20
+						"type": "Track"
 					}
 				},
 				{
@@ -500,8 +457,7 @@
 					"group": {
 						"abbreviation": "T11",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 11
+						"type": "Track"
 					}
 				},
 				{
@@ -511,8 +467,7 @@
 					"group": {
 						"abbreviation": "T13",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 13
+						"type": "Track"
 					}
 				},
 				{
@@ -522,8 +477,7 @@
 					"group": {
 						"abbreviation": "T20",
 						"condition": "Intellectual disability",
-						"type": "Track",
-						"level": 20
+						"type": "Track"
 					}
 				},
 				{
@@ -533,8 +487,7 @@
 					"group": {
 						"abbreviation": "T36",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 36
+						"type": "Track"
 					}
 				},
 				{
@@ -544,8 +497,7 @@
 					"group": {
 						"abbreviation": "T44",
 						"condition": "Amputation & Les Autres",
-						"type": "Track",
-						"level": 44
+						"type": "Track"
 					}
 				},
 				{
@@ -555,8 +507,7 @@
 					"group": {
 						"abbreviation": "F41",
 						"condition": "Amputation & Les Autres",
-						"type": "Field",
-						"level": 41
+						"type": "Field"
 					}
 				}
 			]
@@ -573,8 +524,7 @@
 					"group": {
 						"abbreviation": "T35",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 35
+						"type": "Track"
 					}
 				},
 				{
@@ -584,8 +534,7 @@
 					"group": {
 						"abbreviation": "F34",
 						"condition": "Cerebral palsy",
-						"type": "Field",
-						"level": 34
+						"type": "Field"
 					}
 				},
 				{
@@ -595,8 +544,7 @@
 					"group": {
 						"abbreviation": "T37",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 37
+						"type": "Track"
 					}
 				},
 				{
@@ -606,8 +554,7 @@
 					"group": {
 						"abbreviation": "T38",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 38
+						"type": "Track"
 					}
 				},
 				{
@@ -617,8 +564,7 @@
 					"group": {
 						"abbreviation": "F44",
 						"condition": "Amputation & Les Autres",
-						"type": "Field",
-						"level": 44
+						"type": "Field"
 					}
 				},
 				{
@@ -628,8 +574,7 @@
 					"group": {
 						"abbreviation": "F32",
 						"condition": "Cerebral palsy",
-						"type": "Field",
-						"level": 32
+						"type": "Field"
 					}
 				},
 				{
@@ -639,8 +584,7 @@
 					"group": {
 						"abbreviation": "F54",
 						"condition": "Wheelchair",
-						"type": "Field",
-						"level": 54
+						"type": "Field"
 					}
 				},
 				{
@@ -650,8 +594,7 @@
 					"group": {
 						"abbreviation": "T54",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 54
+						"type": "Track"
 					}
 				},
 				{
@@ -661,8 +604,7 @@
 					"group": {
 						"abbreviation": "F11",
 						"condition": "Visual impairment",
-						"type": "Field",
-						"level": 11
+						"type": "Field"
 					}
 				},
 				{
@@ -672,8 +614,7 @@
 					"group": {
 						"abbreviation": "T42",
 						"condition": "Amputation & Les Autres",
-						"type": "Track",
-						"level": 42
+						"type": "Track"
 					}
 				},
 				{
@@ -683,8 +624,7 @@
 					"group": {
 						"abbreviation": "T35",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 35
+						"type": "Track"
 					}
 				},
 				{
@@ -694,8 +634,7 @@
 					"group": {
 						"abbreviation": "T37",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 37
+						"type": "Track"
 					}
 				},
 				{
@@ -705,8 +644,7 @@
 					"group": {
 						"abbreviation": "T11",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 11
+						"type": "Track"
 					}
 				},
 				{
@@ -716,8 +654,7 @@
 					"group": {
 						"abbreviation": "T12",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 12
+						"type": "Track"
 					}
 				},
 				{
@@ -727,8 +664,7 @@
 					"group": {
 						"abbreviation": "T38",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 38
+						"type": "Track"
 					}
 				},
 				{
@@ -738,8 +674,7 @@
 					"group": {
 						"abbreviation": "T54",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 54
+						"type": "Track"
 					}
 				},
 				{
@@ -749,8 +684,7 @@
 					"group": {
 						"abbreviation": "T53",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 53
+						"type": "Track"
 					}
 				},
 				{
@@ -760,8 +694,7 @@
 					"group": {
 						"abbreviation": "T12",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 12
+						"type": "Track"
 					}
 				},
 				{
@@ -771,8 +704,7 @@
 					"group": {
 						"abbreviation": "T11",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 11
+						"type": "Track"
 					}
 				},
 				{
@@ -782,8 +714,7 @@
 					"group": {
 						"abbreviation": "T12",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 12
+						"type": "Track"
 					}
 				},
 				{
@@ -793,8 +724,7 @@
 					"group": {
 						"abbreviation": "T54",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 54
+						"type": "Track"
 					}
 				},
 				{
@@ -804,8 +734,7 @@
 					"group": {
 						"abbreviation": "T44",
 						"condition": "Amputation & Les Autres",
-						"type": "Track",
-						"level": 44
+						"type": "Track"
 					}
 				},
 				{
@@ -815,8 +744,7 @@
 					"group": {
 						"abbreviation": "T53",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 53
+						"type": "Track"
 					}
 				},
 				{
@@ -826,8 +754,7 @@
 					"group": {
 						"abbreviation": "F44",
 						"condition": "Amputation & Les Autres",
-						"type": "Field",
-						"level": 44
+						"type": "Field"
 					}
 				},
 				{
@@ -837,8 +764,7 @@
 					"group": {
 						"abbreviation": "T12",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 12
+						"type": "Track"
 					}
 				},
 				{
@@ -848,8 +774,7 @@
 					"group": {
 						"abbreviation": "T34",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 34
+						"type": "Track"
 					}
 				},
 				{
@@ -859,8 +784,7 @@
 					"group": {
 						"abbreviation": "F11",
 						"condition": "Visual impairment",
-						"type": "Field",
-						"level": 11
+						"type": "Field"
 					}
 				},
 				{
@@ -870,8 +794,7 @@
 					"group": {
 						"abbreviation": "T44",
 						"condition": "Amputation & Les Autres",
-						"type": "Track",
-						"level": 44
+						"type": "Track"
 					}
 				},
 				{
@@ -881,8 +804,7 @@
 					"group": {
 						"abbreviation": "T42",
 						"condition": "Amputation & Les Autres",
-						"type": "Track",
-						"level": 42
+						"type": "Track"
 					}
 				}
 			]
@@ -899,8 +821,7 @@
 					"group": {
 						"abbreviation": "F56",
 						"condition": "Wheelchair",
-						"type": "Field",
-						"level": 56
+						"type": "Field"
 					}
 				},
 				{
@@ -910,8 +831,7 @@
 					"group": {
 						"abbreviation": "F54",
 						"condition": "Wheelchair",
-						"type": "Field",
-						"level": 54
+						"type": "Field"
 					}
 				},
 				{
@@ -921,8 +841,7 @@
 					"group": {
 						"abbreviation": "T11",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 11
+						"type": "Track"
 					}
 				},
 				{
@@ -932,8 +851,7 @@
 					"group": {
 						"abbreviation": "T12",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 12
+						"type": "Track"
 					}
 				},
 				{
@@ -943,8 +861,7 @@
 					"group": {
 						"abbreviation": "T52",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 52
+						"type": "Track"
 					}
 				},
 				{
@@ -954,8 +871,7 @@
 					"group": {
 						"abbreviation": "F20",
 						"condition": "Intellectual disability",
-						"type": "Field",
-						"level": 20
+						"type": "Field"
 					}
 				},
 				{
@@ -965,8 +881,7 @@
 					"group": {
 						"abbreviation": "F34",
 						"condition": "Cerebral palsy",
-						"type": "Field",
-						"level": 34
+						"type": "Field"
 					}
 				},
 				{
@@ -976,8 +891,7 @@
 					"group": {
 						"abbreviation": "T52",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 52
+						"type": "Track"
 					}
 				},
 				{
@@ -987,8 +901,7 @@
 					"group": {
 						"abbreviation": "T13",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 13
+						"type": "Track"
 					}
 				},
 				{
@@ -998,8 +911,7 @@
 					"group": {
 						"abbreviation": "T37",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 37
+						"type": "Track"
 					}
 				},
 				{
@@ -1009,8 +921,7 @@
 					"group": {
 						"abbreviation": "T52",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 52
+						"type": "Track"
 					}
 				},
 				{
@@ -1020,8 +931,7 @@
 					"group": {
 						"abbreviation": "T47",
 						"condition": null,
-						"type": "Track",
-						"level": 47
+						"type": "Track"
 					}
 				},
 				{
@@ -1031,8 +941,7 @@
 					"group": {
 						"abbreviation": "T13",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 13
+						"type": "Track"
 					}
 				},
 				{
@@ -1042,8 +951,7 @@
 					"group": {
 						"abbreviation": "T52",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 52
+						"type": "Track"
 					}
 				},
 				{
@@ -1053,8 +961,7 @@
 					"group": {
 						"abbreviation": "T13",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 13
+						"type": "Track"
 					}
 				},
 				{
@@ -1064,8 +971,7 @@
 					"group": {
 						"abbreviation": "T53",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 53
+						"type": "Track"
 					}
 				},
 				{
@@ -1075,8 +981,7 @@
 					"group": {
 						"abbreviation": "F54",
 						"condition": "Wheelchair",
-						"type": "Field",
-						"level": 54
+						"type": "Field"
 					}
 				},
 				{
@@ -1086,8 +991,7 @@
 					"group": {
 						"abbreviation": "T12",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 12
+						"type": "Track"
 					}
 				}
 			]
@@ -1104,8 +1008,7 @@
 					"group": {
 						"abbreviation": "F33",
 						"condition": "Cerebral palsy",
-						"type": "Field",
-						"level": 33
+						"type": "Field"
 					}
 				},
 				{
@@ -1115,8 +1018,7 @@
 					"group": {
 						"abbreviation": "F56",
 						"condition": "Wheelchair",
-						"type": "Field",
-						"level": 56
+						"type": "Field"
 					}
 				},
 				{
@@ -1126,8 +1028,7 @@
 					"group": {
 						"abbreviation": "F20",
 						"condition": "Intellectual disability",
-						"type": "Field",
-						"level": 20
+						"type": "Field"
 					}
 				},
 				{
@@ -1137,8 +1038,7 @@
 					"group": {
 						"abbreviation": "T36",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 36
+						"type": "Track"
 					}
 				},
 				{
@@ -1148,8 +1048,7 @@
 					"group": {
 						"abbreviation": "F20",
 						"condition": "Intellectual disability",
-						"type": "Field",
-						"level": 20
+						"type": "Field"
 					}
 				},
 				{
@@ -1159,8 +1058,7 @@
 					"group": {
 						"abbreviation": "F56",
 						"condition": "Wheelchair",
-						"type": "Field",
-						"level": 56
+						"type": "Field"
 					}
 				},
 				{
@@ -1170,8 +1068,7 @@
 					"group": {
 						"abbreviation": "T34",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 34
+						"type": "Track"
 					}
 				},
 				{
@@ -1181,8 +1078,7 @@
 					"group": {
 						"abbreviation": "F37",
 						"condition": "Cerebral palsy",
-						"type": "Field",
-						"level": 37
+						"type": "Field"
 					}
 				},
 				{
@@ -1192,8 +1088,7 @@
 					"group": {
 						"abbreviation": "T33",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 33
+						"type": "Track"
 					}
 				},
 				{
@@ -1203,8 +1098,7 @@
 					"group": {
 						"abbreviation": "T42",
 						"condition": "Amputation & Les Autres",
-						"type": "Track",
-						"level": 42
+						"type": "Track"
 					}
 				},
 				{
@@ -1214,8 +1108,7 @@
 					"group": {
 						"abbreviation": "T42",
 						"condition": "Amputation & Les Autres",
-						"type": "Track",
-						"level": 42
+						"type": "Track"
 					}
 				},
 				{
@@ -1225,8 +1118,7 @@
 					"group": {
 						"abbreviation": "T36",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 36
+						"type": "Track"
 					}
 				},
 				{
@@ -1236,8 +1128,7 @@
 					"group": {
 						"abbreviation": "T53",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 53
+						"type": "Track"
 					}
 				},
 				{
@@ -1247,8 +1138,7 @@
 					"group": {
 						"abbreviation": "T34",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 34
+						"type": "Track"
 					}
 				},
 				{
@@ -1258,8 +1148,7 @@
 					"group": {
 						"abbreviation": "T33",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 33
+						"type": "Track"
 					}
 				},
 				{
@@ -1269,8 +1158,7 @@
 					"group": {
 						"abbreviation": "T38",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 38
+						"type": "Track"
 					}
 				},
 				{
@@ -1280,8 +1168,7 @@
 					"group": {
 						"abbreviation": "F20",
 						"condition": "Intellectual disability",
-						"type": "Field",
-						"level": 20
+						"type": "Field"
 					}
 				},
 				{
@@ -1291,8 +1178,7 @@
 					"group": {
 						"abbreviation": "T47",
 						"condition": null,
-						"type": "Track",
-						"level": 47
+						"type": "Track"
 					}
 				},
 				{
@@ -1302,8 +1188,7 @@
 					"group": {
 						"abbreviation": "F37",
 						"condition": "Cerebral palsy",
-						"type": "Field",
-						"level": 37
+						"type": "Field"
 					}
 				},
 				{
@@ -1313,8 +1198,7 @@
 					"group": {
 						"abbreviation": "T11",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 11
+						"type": "Track"
 					}
 				},
 				{
@@ -1324,8 +1208,7 @@
 					"group": {
 						"abbreviation": "T38",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 38
+						"type": "Track"
 					}
 				},
 				{
@@ -1335,8 +1218,7 @@
 					"group": {
 						"abbreviation": "T42",
 						"condition": "Amputation & Les Autres",
-						"type": "Track",
-						"level": 42
+						"type": "Track"
 					}
 				}
 			]
@@ -1353,8 +1235,7 @@
 					"group": {
 						"abbreviation": "T54",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 54
+						"type": "Track"
 					}
 				},
 				{
@@ -1364,8 +1245,7 @@
 					"group": {
 						"abbreviation": "F34",
 						"condition": "Cerebral palsy",
-						"type": "Field",
-						"level": 34
+						"type": "Field"
 					}
 				},
 				{
@@ -1375,8 +1255,7 @@
 					"group": {
 						"abbreviation": "T54",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 54
+						"type": "Track"
 					}
 				},
 				{
@@ -1386,8 +1265,7 @@
 					"group": {
 						"abbreviation": "F44",
 						"condition": "Amputation & Les Autres",
-						"type": "Field",
-						"level": 44
+						"type": "Field"
 					}
 				},
 				{
@@ -1397,8 +1275,7 @@
 					"group": {
 						"abbreviation": "F33",
 						"condition": "Cerebral palsy",
-						"type": "Field",
-						"level": 33
+						"type": "Field"
 					}
 				},
 				{
@@ -1408,8 +1285,7 @@
 					"group": {
 						"abbreviation": "F56",
 						"condition": "Wheelchair",
-						"type": "Field",
-						"level": 56
+						"type": "Field"
 					}
 				},
 				{
@@ -1419,8 +1295,7 @@
 					"group": {
 						"abbreviation": "T47",
 						"condition": null,
-						"type": "Track",
-						"level": 47
+						"type": "Track"
 					}
 				},
 				{
@@ -1430,8 +1305,7 @@
 					"group": {
 						"abbreviation": "T20",
 						"condition": "Intellectual disability",
-						"type": "Track",
-						"level": 20
+						"type": "Track"
 					}
 				},
 				{
@@ -1441,8 +1315,7 @@
 					"group": {
 						"abbreviation": "T37",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 37
+						"type": "Track"
 					}
 				},
 				{
@@ -1452,8 +1325,7 @@
 					"group": {
 						"abbreviation": "F41",
 						"condition": "Amputation & Les Autres",
-						"type": "Field",
-						"level": 41
+						"type": "Field"
 					}
 				},
 				{
@@ -1463,8 +1335,7 @@
 					"group": {
 						"abbreviation": "T13",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 13
+						"type": "Track"
 					}
 				},
 				{
@@ -1474,8 +1345,7 @@
 					"group": {
 						"abbreviation": "T54",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 54
+						"type": "Track"
 					}
 				},
 				{
@@ -1485,8 +1355,7 @@
 					"group": {
 						"abbreviation": "T35",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 35
+						"type": "Track"
 					}
 				},
 				{
@@ -1496,8 +1365,7 @@
 					"group": {
 						"abbreviation": "T53",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 53
+						"type": "Track"
 					}
 				},
 				{
@@ -1507,8 +1375,7 @@
 					"group": {
 						"abbreviation": "T47",
 						"condition": null,
-						"type": "Track",
-						"level": 47
+						"type": "Track"
 					}
 				},
 				{
@@ -1518,8 +1385,7 @@
 					"group": {
 						"abbreviation": "T37",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 37
+						"type": "Track"
 					}
 				},
 				{
@@ -1529,8 +1395,7 @@
 					"group": {
 						"abbreviation": "T37",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 37
+						"type": "Track"
 					}
 				},
 				{
@@ -1540,8 +1405,7 @@
 					"group": {
 						"abbreviation": "T13",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 13
+						"type": "Track"
 					}
 				},
 				{
@@ -1551,8 +1415,7 @@
 					"group": {
 						"abbreviation": "T53",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 53
+						"type": "Track"
 					}
 				},
 				{
@@ -1562,8 +1425,7 @@
 					"group": {
 						"abbreviation": "T11",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 11
+						"type": "Track"
 					}
 				},
 				{
@@ -1573,8 +1435,7 @@
 					"group": {
 						"abbreviation": "T37",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 37
+						"type": "Track"
 					}
 				},
 				{
@@ -1584,8 +1445,7 @@
 					"group": {
 						"abbreviation": "F44",
 						"condition": "Amputation & Les Autres",
-						"type": "Field",
-						"level": 44
+						"type": "Field"
 					}
 				},
 				{
@@ -1595,8 +1455,7 @@
 					"group": {
 						"abbreviation": "T20",
 						"condition": "Intellectual disability",
-						"type": "Track",
-						"level": 20
+						"type": "Track"
 					}
 				},
 				{
@@ -1606,8 +1465,7 @@
 					"group": {
 						"abbreviation": "F41",
 						"condition": "Amputation & Les Autres",
-						"type": "Field",
-						"level": 41
+						"type": "Field"
 					}
 				}
 			]
@@ -1624,8 +1482,7 @@
 					"group": {
 						"abbreviation": "T53",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 53
+						"type": "Track"
 					}
 				},
 				{
@@ -1635,8 +1492,7 @@
 					"group": {
 						"abbreviation": "F51",
 						"condition": "Wheelchair",
-						"type": "Field",
-						"level": 51
+						"type": "Field"
 					}
 				},
 				{
@@ -1646,8 +1502,7 @@
 					"group": {
 						"abbreviation": "T54",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 54
+						"type": "Track"
 					}
 				},
 				{
@@ -1657,8 +1512,7 @@
 					"group": {
 						"abbreviation": "T34",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 34
+						"type": "Track"
 					}
 				},
 				{
@@ -1668,8 +1522,7 @@
 					"group": {
 						"abbreviation": "F34",
 						"condition": "Cerebral palsy",
-						"type": "Field",
-						"level": 34
+						"type": "Field"
 					}
 				},
 				{
@@ -1679,8 +1532,7 @@
 					"group": {
 						"abbreviation": "T54",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 54
+						"type": "Track"
 					}
 				},
 				{
@@ -1690,8 +1542,7 @@
 					"group": {
 						"abbreviation": "F40",
 						"condition": null,
-						"type": "Field",
-						"level": 40
+						"type": "Field"
 					}
 				},
 				{
@@ -1701,8 +1552,7 @@
 					"group": {
 						"abbreviation": "T38",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 38
+						"type": "Track"
 					}
 				},
 				{
@@ -1712,8 +1562,7 @@
 					"group": {
 						"abbreviation": "T13",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 13
+						"type": "Track"
 					}
 				},
 				{
@@ -1723,8 +1572,7 @@
 					"group": {
 						"abbreviation": "T53",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 53
+						"type": "Track"
 					}
 				},
 				{
@@ -1734,8 +1582,7 @@
 					"group": {
 						"abbreviation": "T54",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 54
+						"type": "Track"
 					}
 				},
 				{
@@ -1745,8 +1592,7 @@
 					"group": {
 						"abbreviation": "T47",
 						"condition": null,
-						"type": "Track",
-						"level": 47
+						"type": "Track"
 					}
 				},
 				{
@@ -1756,8 +1602,7 @@
 					"group": {
 						"abbreviation": "T11",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 11
+						"type": "Track"
 					}
 				},
 				{
@@ -1767,8 +1612,7 @@
 					"group": {
 						"abbreviation": "T42",
 						"condition": "Amputation & Les Autres",
-						"type": "Track",
-						"level": 42
+						"type": "Track"
 					}
 				},
 				{
@@ -1778,8 +1622,7 @@
 					"group": {
 						"abbreviation": "T13",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 13
+						"type": "Track"
 					}
 				},
 				{
@@ -1789,8 +1632,7 @@
 					"group": {
 						"abbreviation": "T12",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 12
+						"type": "Track"
 					}
 				},
 				{
@@ -1800,8 +1642,7 @@
 					"group": {
 						"abbreviation": "T47",
 						"condition": null,
-						"type": "Track",
-						"level": 47
+						"type": "Track"
 					}
 				},
 				{
@@ -1811,8 +1652,7 @@
 					"group": {
 						"abbreviation": "T11",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 11
+						"type": "Track"
 					}
 				},
 				{
@@ -1822,8 +1662,7 @@
 					"group": {
 						"abbreviation": "T42",
 						"condition": "Amputation & Les Autres",
-						"type": "Track",
-						"level": 42
+						"type": "Track"
 					}
 				},
 				{
@@ -1833,8 +1672,7 @@
 					"group": {
 						"abbreviation": "T44",
 						"condition": "Amputation & Les Autres",
-						"type": "Track",
-						"level": 44
+						"type": "Track"
 					}
 				},
 				{
@@ -1844,8 +1682,7 @@
 					"group": {
 						"abbreviation": "F40",
 						"condition": null,
-						"type": "Field",
-						"level": 40
+						"type": "Field"
 					}
 				},
 				{
@@ -1855,8 +1692,7 @@
 					"group": {
 						"abbreviation": "T38",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 38
+						"type": "Track"
 					}
 				}
 			]
@@ -1873,8 +1709,7 @@
 					"group": {
 						"abbreviation": "T52",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 52
+						"type": "Track"
 					}
 				},
 				{
@@ -1884,8 +1719,7 @@
 					"group": {
 						"abbreviation": "F53",
 						"condition": "Wheelchair",
-						"type": "Field",
-						"level": 53
+						"type": "Field"
 					}
 				},
 				{
@@ -1895,8 +1729,7 @@
 					"group": {
 						"abbreviation": "T54",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 54
+						"type": "Track"
 					}
 				},
 				{
@@ -1906,8 +1739,7 @@
 					"group": {
 						"abbreviation": "T37",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 37
+						"type": "Track"
 					}
 				},
 				{
@@ -1917,8 +1749,7 @@
 					"group": {
 						"abbreviation": "T36",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 36
+						"type": "Track"
 					}
 				},
 				{
@@ -1928,8 +1759,7 @@
 					"group": {
 						"abbreviation": "F51",
 						"condition": "Wheelchair",
-						"type": "Field",
-						"level": 51
+						"type": "Field"
 					}
 				},
 				{
@@ -1939,8 +1769,7 @@
 					"group": {
 						"abbreviation": "T35",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 35
+						"type": "Track"
 					}
 				},
 				{
@@ -1950,8 +1779,7 @@
 					"group": {
 						"abbreviation": "T12",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 12
+						"type": "Track"
 					}
 				},
 				{
@@ -1961,8 +1789,7 @@
 					"group": {
 						"abbreviation": "F42",
 						"condition": "Amputation & Les Autres",
-						"type": "Field",
-						"level": 42
+						"type": "Field"
 					}
 				},
 				{
@@ -1972,8 +1799,7 @@
 					"group": {
 						"abbreviation": "T54",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 54
+						"type": "Track"
 					}
 				},
 				{
@@ -1983,8 +1809,7 @@
 					"group": {
 						"abbreviation": "T36",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 36
+						"type": "Track"
 					}
 				},
 				{
@@ -1994,8 +1819,7 @@
 					"group": {
 						"abbreviation": "T11",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 11
+						"type": "Track"
 					}
 				},
 				{
@@ -2005,8 +1829,7 @@
 					"group": {
 						"abbreviation": "T35",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 35
+						"type": "Track"
 					}
 				},
 				{
@@ -2016,8 +1839,7 @@
 					"group": {
 						"abbreviation": "T12",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 12
+						"type": "Track"
 					}
 				},
 				{
@@ -2027,8 +1849,7 @@
 					"group": {
 						"abbreviation": "T38",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 38
+						"type": "Track"
 					}
 				},
 				{
@@ -2038,8 +1859,7 @@
 					"group": {
 						"abbreviation": "T36",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 36
+						"type": "Track"
 					}
 				},
 				{
@@ -2049,8 +1869,7 @@
 					"group": {
 						"abbreviation": "F53",
 						"condition": "Wheelchair",
-						"type": "Field",
-						"level": 53
+						"type": "Field"
 					}
 				}
 			]
@@ -2063,12 +1882,11 @@
 				{
 					"title": "4x100m",
 					"gender": "Men's",
-					"round": "-47 Final",
+					"round": "Final",
 					"group": {
-						"abbreviation": "T42",
+						"abbreviation": "T42-47",
 						"condition": "Amputation & Les Autres",
-						"type": "Track",
-						"level": 42
+						"type": "Track"
 					}
 				},
 				{
@@ -2078,19 +1896,17 @@
 					"group": {
 						"abbreviation": "F57",
 						"condition": "Wheelchair",
-						"type": "Field",
-						"level": 57
+						"type": "Field"
 					}
 				},
 				{
 					"title": "4x100m",
 					"gender": "Men's",
-					"round": "-13 Round 1",
+					"round": "Round 1",
 					"group": {
-						"abbreviation": "T11",
+						"abbreviation": "T11-13",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 11
+						"type": "Track"
 					}
 				},
 				{
@@ -2100,8 +1916,7 @@
 					"group": {
 						"abbreviation": "F11",
 						"condition": "Visual impairment",
-						"type": "Field",
-						"level": 11
+						"type": "Field"
 					}
 				},
 				{
@@ -2111,8 +1926,7 @@
 					"group": {
 						"abbreviation": "T20",
 						"condition": "Intellectual disability",
-						"type": "Track",
-						"level": 20
+						"type": "Track"
 					}
 				},
 				{
@@ -2122,8 +1936,7 @@
 					"group": {
 						"abbreviation": "F42",
 						"condition": "Amputation & Les Autres",
-						"type": "Field",
-						"level": 42
+						"type": "Field"
 					}
 				},
 				{
@@ -2133,8 +1946,7 @@
 					"group": {
 						"abbreviation": "F35",
 						"condition": "Cerebral palsy",
-						"type": "Field",
-						"level": 35
+						"type": "Field"
 					}
 				},
 				{
@@ -2144,8 +1956,7 @@
 					"group": {
 						"abbreviation": "T44",
 						"condition": "Amputation & Les Autres",
-						"type": "Track",
-						"level": 44
+						"type": "Track"
 					}
 				},
 				{
@@ -2155,8 +1966,7 @@
 					"group": {
 						"abbreviation": "T54",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 54
+						"type": "Track"
 					}
 				},
 				{
@@ -2166,8 +1976,7 @@
 					"group": {
 						"abbreviation": "T44",
 						"condition": "Amputation & Les Autres",
-						"type": "Track",
-						"level": 44
+						"type": "Track"
 					}
 				},
 				{
@@ -2177,8 +1986,7 @@
 					"group": {
 						"abbreviation": "T34",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 34
+						"type": "Track"
 					}
 				},
 				{
@@ -2188,8 +1996,7 @@
 					"group": {
 						"abbreviation": "T44",
 						"condition": "Amputation & Les Autres",
-						"type": "Track",
-						"level": 44
+						"type": "Track"
 					}
 				},
 				{
@@ -2199,8 +2006,7 @@
 					"group": {
 						"abbreviation": "T44",
 						"condition": "Amputation & Les Autres",
-						"type": "Track",
-						"level": 44
+						"type": "Track"
 					}
 				},
 				{
@@ -2210,8 +2016,7 @@
 					"group": {
 						"abbreviation": "T34",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 34
+						"type": "Track"
 					}
 				},
 				{
@@ -2221,8 +2026,7 @@
 					"group": {
 						"abbreviation": "F35",
 						"condition": "Cerebral palsy",
-						"type": "Field",
-						"level": 35
+						"type": "Field"
 					}
 				},
 				{
@@ -2232,19 +2036,17 @@
 					"group": {
 						"abbreviation": "T11",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 11
+						"type": "Track"
 					}
 				},
 				{
 					"title": "4x100m",
 					"gender": "Men's",
-					"round": "-47 Victory Ceremony",
+					"round": "Victory Ceremony",
 					"group": {
-						"abbreviation": "T42",
+						"abbreviation": "T42-47",
 						"condition": "Amputation & Les Autres",
-						"type": "Track",
-						"level": 42
+						"type": "Track"
 					}
 				},
 				{
@@ -2254,8 +2056,7 @@
 					"group": {
 						"abbreviation": "F11",
 						"condition": "Visual impairment",
-						"type": "Field",
-						"level": 11
+						"type": "Field"
 					}
 				},
 				{
@@ -2265,8 +2066,7 @@
 					"group": {
 						"abbreviation": "T44",
 						"condition": "Amputation & Les Autres",
-						"type": "Track",
-						"level": 44
+						"type": "Track"
 					}
 				},
 				{
@@ -2276,8 +2076,7 @@
 					"group": {
 						"abbreviation": "T44",
 						"condition": "Amputation & Les Autres",
-						"type": "Track",
-						"level": 44
+						"type": "Track"
 					}
 				}
 			]
@@ -2294,8 +2093,7 @@
 					"group": {
 						"abbreviation": "T47",
 						"condition": null,
-						"type": "Track",
-						"level": 47
+						"type": "Track"
 					}
 				},
 				{
@@ -2305,8 +2103,7 @@
 					"group": {
 						"abbreviation": "F32",
 						"condition": "Cerebral palsy",
-						"type": "Field",
-						"level": 32
+						"type": "Field"
 					}
 				},
 				{
@@ -2316,8 +2113,7 @@
 					"group": {
 						"abbreviation": "T37",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 37
+						"type": "Track"
 					}
 				},
 				{
@@ -2327,8 +2123,7 @@
 					"group": {
 						"abbreviation": "T52",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 52
+						"type": "Track"
 					}
 				},
 				{
@@ -2338,8 +2133,7 @@
 					"group": {
 						"abbreviation": "F57",
 						"condition": "Wheelchair",
-						"type": "Field",
-						"level": 57
+						"type": "Field"
 					}
 				},
 				{
@@ -2349,8 +2143,7 @@
 					"group": {
 						"abbreviation": "T51",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 51
+						"type": "Track"
 					}
 				},
 				{
@@ -2360,8 +2153,7 @@
 					"group": {
 						"abbreviation": "T38",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 38
+						"type": "Track"
 					}
 				},
 				{
@@ -2371,8 +2163,7 @@
 					"group": {
 						"abbreviation": "T36",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 36
+						"type": "Track"
 					}
 				},
 				{
@@ -2382,8 +2173,7 @@
 					"group": {
 						"abbreviation": "T37",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 37
+						"type": "Track"
 					}
 				},
 				{
@@ -2393,8 +2183,7 @@
 					"group": {
 						"abbreviation": "T20",
 						"condition": "Intellectual disability",
-						"type": "Track",
-						"level": 20
+						"type": "Track"
 					}
 				},
 				{
@@ -2404,8 +2193,7 @@
 					"group": {
 						"abbreviation": "F46",
 						"condition": "Amputation & Les Autres",
-						"type": "Field",
-						"level": 46
+						"type": "Field"
 					}
 				},
 				{
@@ -2415,8 +2203,7 @@
 					"group": {
 						"abbreviation": "T37",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 37
+						"type": "Track"
 					}
 				},
 				{
@@ -2426,19 +2213,17 @@
 					"group": {
 						"abbreviation": "T52",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 52
+						"type": "Track"
 					}
 				},
 				{
 					"title": "4x100m",
 					"gender": "Men's",
-					"round": "-13 Final",
+					"round": "Final",
 					"group": {
-						"abbreviation": "T11",
+						"abbreviation": "T11-13",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 11
+						"type": "Track"
 					}
 				},
 				{
@@ -2448,8 +2233,7 @@
 					"group": {
 						"abbreviation": "T51",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 51
+						"type": "Track"
 					}
 				},
 				{
@@ -2459,8 +2243,7 @@
 					"group": {
 						"abbreviation": "T38",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 38
+						"type": "Track"
 					}
 				},
 				{
@@ -2470,8 +2253,7 @@
 					"group": {
 						"abbreviation": "T34",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 34
+						"type": "Track"
 					}
 				},
 				{
@@ -2481,8 +2263,7 @@
 					"group": {
 						"abbreviation": "T36",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 36
+						"type": "Track"
 					}
 				},
 				{
@@ -2492,8 +2273,7 @@
 					"group": {
 						"abbreviation": "T20",
 						"condition": "Intellectual disability",
-						"type": "Track",
-						"level": 20
+						"type": "Track"
 					}
 				},
 				{
@@ -2503,8 +2283,7 @@
 					"group": {
 						"abbreviation": "T34",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 34
+						"type": "Track"
 					}
 				},
 				{
@@ -2514,8 +2293,7 @@
 					"group": {
 						"abbreviation": "T37",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 37
+						"type": "Track"
 					}
 				},
 				{
@@ -2525,19 +2303,17 @@
 					"group": {
 						"abbreviation": "F46",
 						"condition": "Amputation & Les Autres",
-						"type": "Field",
-						"level": 46
+						"type": "Field"
 					}
 				},
 				{
 					"title": "4x100m",
 					"gender": "Men's",
-					"round": "-13 Victory Ceremony",
+					"round": "Victory Ceremony",
 					"group": {
-						"abbreviation": "T11",
+						"abbreviation": "T11-13",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 11
+						"type": "Track"
 					}
 				}
 			]
@@ -2554,8 +2330,7 @@
 					"group": {
 						"abbreviation": "T13",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 13
+						"type": "Track"
 					}
 				},
 				{
@@ -2565,8 +2340,7 @@
 					"group": {
 						"abbreviation": "F54",
 						"condition": "Wheelchair",
-						"type": "Field",
-						"level": 54
+						"type": "Field"
 					}
 				},
 				{
@@ -2576,8 +2350,7 @@
 					"group": {
 						"abbreviation": "T20",
 						"condition": "Intellectual disability",
-						"type": "Track",
-						"level": 20
+						"type": "Track"
 					}
 				},
 				{
@@ -2587,8 +2360,7 @@
 					"group": {
 						"abbreviation": "F32",
 						"condition": "Cerebral palsy",
-						"type": "Field",
-						"level": 32
+						"type": "Field"
 					}
 				},
 				{
@@ -2598,8 +2370,7 @@
 					"group": {
 						"abbreviation": "F46",
 						"condition": "Amputation & Les Autres",
-						"type": "Field",
-						"level": 46
+						"type": "Field"
 					}
 				},
 				{
@@ -2609,8 +2380,7 @@
 					"group": {
 						"abbreviation": "T11",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 11
+						"type": "Track"
 					}
 				},
 				{
@@ -2620,8 +2390,7 @@
 					"group": {
 						"abbreviation": "F37",
 						"condition": "Cerebral palsy",
-						"type": "Field",
-						"level": 37
+						"type": "Field"
 					}
 				},
 				{
@@ -2631,8 +2400,7 @@
 					"group": {
 						"abbreviation": "T54",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 54
+						"type": "Track"
 					}
 				},
 				{
@@ -2642,8 +2410,7 @@
 					"group": {
 						"abbreviation": "T54",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 54
+						"type": "Track"
 					}
 				},
 				{
@@ -2653,8 +2420,7 @@
 					"group": {
 						"abbreviation": "T11",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 11
+						"type": "Track"
 					}
 				},
 				{
@@ -2664,8 +2430,7 @@
 					"group": {
 						"abbreviation": "T12",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 12
+						"type": "Track"
 					}
 				},
 				{
@@ -2675,8 +2440,7 @@
 					"group": {
 						"abbreviation": "T20",
 						"condition": "Intellectual disability",
-						"type": "Track",
-						"level": 20
+						"type": "Track"
 					}
 				},
 				{
@@ -2686,8 +2450,7 @@
 					"group": {
 						"abbreviation": "T11",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 11
+						"type": "Track"
 					}
 				},
 				{
@@ -2697,8 +2460,7 @@
 					"group": {
 						"abbreviation": "T11",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 11
+						"type": "Track"
 					}
 				},
 				{
@@ -2708,8 +2470,7 @@
 					"group": {
 						"abbreviation": "T54",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 54
+						"type": "Track"
 					}
 				},
 				{
@@ -2719,8 +2480,7 @@
 					"group": {
 						"abbreviation": "T54",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 54
+						"type": "Track"
 					}
 				},
 				{
@@ -2730,8 +2490,7 @@
 					"group": {
 						"abbreviation": "T12",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 12
+						"type": "Track"
 					}
 				},
 				{
@@ -2741,8 +2500,7 @@
 					"group": {
 						"abbreviation": "T11",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 11
+						"type": "Track"
 					}
 				},
 				{
@@ -2752,8 +2510,7 @@
 					"group": {
 						"abbreviation": "F37",
 						"condition": "Cerebral palsy",
-						"type": "Field",
-						"level": 37
+						"type": "Field"
 					}
 				},
 				{
@@ -2763,8 +2520,7 @@
 					"group": {
 						"abbreviation": "T12",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 12
+						"type": "Track"
 					}
 				},
 				{
@@ -2774,8 +2530,7 @@
 					"group": {
 						"abbreviation": "F46",
 						"condition": "Amputation & Les Autres",
-						"type": "Field",
-						"level": 46
+						"type": "Field"
 					}
 				}
 			]
@@ -2792,8 +2547,7 @@
 					"group": {
 						"abbreviation": "T54",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 54
+						"type": "Track"
 					}
 				},
 				{
@@ -2803,8 +2557,7 @@
 					"group": {
 						"abbreviation": "F53",
 						"condition": "Wheelchair",
-						"type": "Field",
-						"level": 53
+						"type": "Field"
 					}
 				},
 				{
@@ -2814,8 +2567,7 @@
 					"group": {
 						"abbreviation": "T54",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 54
+						"type": "Track"
 					}
 				},
 				{
@@ -2825,8 +2577,7 @@
 					"group": {
 						"abbreviation": "T52",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 52
+						"type": "Track"
 					}
 				},
 				{
@@ -2836,8 +2587,7 @@
 					"group": {
 						"abbreviation": "F12",
 						"condition": "Visual impairment",
-						"type": "Field",
-						"level": 12
+						"type": "Field"
 					}
 				},
 				{
@@ -2847,8 +2597,7 @@
 					"group": {
 						"abbreviation": "T35",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 35
+						"type": "Track"
 					}
 				},
 				{
@@ -2858,8 +2607,7 @@
 					"group": {
 						"abbreviation": "F13",
 						"condition": "Visual impairment",
-						"type": "Field",
-						"level": 13
+						"type": "Field"
 					}
 				},
 				{
@@ -2869,8 +2617,7 @@
 					"group": {
 						"abbreviation": "T37",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 37
+						"type": "Track"
 					}
 				},
 				{
@@ -2880,8 +2627,7 @@
 					"group": {
 						"abbreviation": "F54",
 						"condition": "Wheelchair",
-						"type": "Field",
-						"level": 54
+						"type": "Field"
 					}
 				},
 				{
@@ -2891,8 +2637,7 @@
 					"group": {
 						"abbreviation": "T38",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 38
+						"type": "Track"
 					}
 				},
 				{
@@ -2902,8 +2647,7 @@
 					"group": {
 						"abbreviation": "T53",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 53
+						"type": "Track"
 					}
 				},
 				{
@@ -2913,8 +2657,7 @@
 					"group": {
 						"abbreviation": "T35",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 35
+						"type": "Track"
 					}
 				},
 				{
@@ -2924,8 +2667,7 @@
 					"group": {
 						"abbreviation": "T11",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 11
+						"type": "Track"
 					}
 				},
 				{
@@ -2935,8 +2677,7 @@
 					"group": {
 						"abbreviation": "T38",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 38
+						"type": "Track"
 					}
 				},
 				{
@@ -2946,8 +2687,7 @@
 					"group": {
 						"abbreviation": "T12",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 12
+						"type": "Track"
 					}
 				},
 				{
@@ -2957,8 +2697,7 @@
 					"group": {
 						"abbreviation": "F13",
 						"condition": "Visual impairment",
-						"type": "Field",
-						"level": 13
+						"type": "Field"
 					}
 				},
 				{
@@ -2968,8 +2707,7 @@
 					"group": {
 						"abbreviation": "T42",
 						"condition": "Amputation & Les Autres",
-						"type": "Track",
-						"level": 42
+						"type": "Track"
 					}
 				},
 				{
@@ -2979,8 +2717,7 @@
 					"group": {
 						"abbreviation": "T37",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 37
+						"type": "Track"
 					}
 				},
 				{
@@ -2990,8 +2727,7 @@
 					"group": {
 						"abbreviation": "F12",
 						"condition": "Visual impairment",
-						"type": "Field",
-						"level": 12
+						"type": "Field"
 					}
 				}
 			]
@@ -3008,8 +2744,7 @@
 					"group": {
 						"abbreviation": "F34",
 						"condition": "Cerebral palsy",
-						"type": "Field",
-						"level": 34
+						"type": "Field"
 					}
 				},
 				{
@@ -3019,8 +2754,7 @@
 					"group": {
 						"abbreviation": "F52",
 						"condition": "Wheelchair",
-						"type": "Field",
-						"level": 52
+						"type": "Field"
 					}
 				},
 				{
@@ -3030,8 +2764,7 @@
 					"group": {
 						"abbreviation": "T34",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 34
+						"type": "Track"
 					}
 				},
 				{
@@ -3041,8 +2774,7 @@
 					"group": {
 						"abbreviation": "F37",
 						"condition": "Cerebral palsy",
-						"type": "Field",
-						"level": 37
+						"type": "Field"
 					}
 				},
 				{
@@ -3052,8 +2784,7 @@
 					"group": {
 						"abbreviation": "T34",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 34
+						"type": "Track"
 					}
 				},
 				{
@@ -3063,8 +2794,7 @@
 					"group": {
 						"abbreviation": "F53",
 						"condition": "Wheelchair",
-						"type": "Field",
-						"level": 53
+						"type": "Field"
 					}
 				},
 				{
@@ -3074,8 +2804,7 @@
 					"group": {
 						"abbreviation": "T44",
 						"condition": "Amputation & Les Autres",
-						"type": "Track",
-						"level": 44
+						"type": "Track"
 					}
 				},
 				{
@@ -3085,8 +2814,7 @@
 					"group": {
 						"abbreviation": "T47",
 						"condition": null,
-						"type": "Track",
-						"level": 47
+						"type": "Track"
 					}
 				},
 				{
@@ -3096,8 +2824,7 @@
 					"group": {
 						"abbreviation": "T47",
 						"condition": null,
-						"type": "Track",
-						"level": 47
+						"type": "Track"
 					}
 				},
 				{
@@ -3107,8 +2834,7 @@
 					"group": {
 						"abbreviation": "T34",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 34
+						"type": "Track"
 					}
 				},
 				{
@@ -3118,19 +2844,17 @@
 					"group": {
 						"abbreviation": "T34",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 34
+						"type": "Track"
 					}
 				},
 				{
 					"title": "4x100m",
 					"gender": "Women's",
-					"round": "-13 Final",
+					"round": "Final",
 					"group": {
-						"abbreviation": "T11",
+						"abbreviation": "T11-13",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 11
+						"type": "Track"
 					}
 				},
 				{
@@ -3140,8 +2864,7 @@
 					"group": {
 						"abbreviation": "T54",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 54
+						"type": "Track"
 					}
 				},
 				{
@@ -3151,8 +2874,7 @@
 					"group": {
 						"abbreviation": "T47",
 						"condition": null,
-						"type": "Track",
-						"level": 47
+						"type": "Track"
 					}
 				},
 				{
@@ -3162,8 +2884,7 @@
 					"group": {
 						"abbreviation": "F37",
 						"condition": "Cerebral palsy",
-						"type": "Field",
-						"level": 37
+						"type": "Field"
 					}
 				},
 				{
@@ -3173,8 +2894,7 @@
 					"group": {
 						"abbreviation": "T44",
 						"condition": "Amputation & Les Autres",
-						"type": "Track",
-						"level": 44
+						"type": "Track"
 					}
 				},
 				{
@@ -3184,19 +2904,17 @@
 					"group": {
 						"abbreviation": "F52",
 						"condition": "Wheelchair",
-						"type": "Field",
-						"level": 52
+						"type": "Field"
 					}
 				},
 				{
 					"title": "4x100m",
 					"gender": "Women's",
-					"round": "-13 Victory Ceremony",
+					"round": "Victory Ceremony",
 					"group": {
-						"abbreviation": "T11",
+						"abbreviation": "T11-13",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 11
+						"type": "Track"
 					}
 				}
 			]
@@ -3213,8 +2931,7 @@
 					"group": {
 						"abbreviation": "T13",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 13
+						"type": "Track"
 					}
 				},
 				{
@@ -3224,8 +2941,7 @@
 					"group": {
 						"abbreviation": "F57",
 						"condition": "Wheelchair",
-						"type": "Field",
-						"level": 57
+						"type": "Field"
 					}
 				},
 				{
@@ -3235,8 +2951,7 @@
 					"group": {
 						"abbreviation": "T36",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 36
+						"type": "Track"
 					}
 				},
 				{
@@ -3246,8 +2961,7 @@
 					"group": {
 						"abbreviation": "T20",
 						"condition": "Intellectual disability",
-						"type": "Track",
-						"level": 20
+						"type": "Track"
 					}
 				},
 				{
@@ -3257,8 +2971,7 @@
 					"group": {
 						"abbreviation": "T52",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 52
+						"type": "Track"
 					}
 				},
 				{
@@ -3268,8 +2981,7 @@
 					"group": {
 						"abbreviation": "F38",
 						"condition": "Cerebral palsy",
-						"type": "Field",
-						"level": 38
+						"type": "Field"
 					}
 				},
 				{
@@ -3279,8 +2991,7 @@
 					"group": {
 						"abbreviation": "F34",
 						"condition": "Cerebral palsy",
-						"type": "Field",
-						"level": 34
+						"type": "Field"
 					}
 				},
 				{
@@ -3290,8 +3001,7 @@
 					"group": {
 						"abbreviation": "T47",
 						"condition": null,
-						"type": "Track",
-						"level": 47
+						"type": "Track"
 					}
 				},
 				{
@@ -3301,8 +3011,7 @@
 					"group": {
 						"abbreviation": "T12",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 12
+						"type": "Track"
 					}
 				},
 				{
@@ -3312,8 +3021,7 @@
 					"group": {
 						"abbreviation": "T13",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 13
+						"type": "Track"
 					}
 				},
 				{
@@ -3323,8 +3031,7 @@
 					"group": {
 						"abbreviation": "T52",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 52
+						"type": "Track"
 					}
 				},
 				{
@@ -3334,8 +3041,7 @@
 					"group": {
 						"abbreviation": "T44",
 						"condition": "Amputation & Les Autres",
-						"type": "Track",
-						"level": 44
+						"type": "Track"
 					}
 				},
 				{
@@ -3345,8 +3051,7 @@
 					"group": {
 						"abbreviation": "T37",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 37
+						"type": "Track"
 					}
 				},
 				{
@@ -3356,8 +3061,7 @@
 					"group": {
 						"abbreviation": "T54",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 54
+						"type": "Track"
 					}
 				},
 				{
@@ -3367,8 +3071,7 @@
 					"group": {
 						"abbreviation": "T13",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 13
+						"type": "Track"
 					}
 				},
 				{
@@ -3378,8 +3081,7 @@
 					"group": {
 						"abbreviation": "T44",
 						"condition": "Amputation & Les Autres",
-						"type": "Track",
-						"level": 44
+						"type": "Track"
 					}
 				},
 				{
@@ -3389,8 +3091,7 @@
 					"group": {
 						"abbreviation": "T20",
 						"condition": "Intellectual disability",
-						"type": "Track",
-						"level": 20
+						"type": "Track"
 					}
 				},
 				{
@@ -3400,8 +3101,7 @@
 					"group": {
 						"abbreviation": "F38",
 						"condition": "Cerebral palsy",
-						"type": "Field",
-						"level": 38
+						"type": "Field"
 					}
 				},
 				{
@@ -3411,8 +3111,7 @@
 					"group": {
 						"abbreviation": "T11",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 11
+						"type": "Track"
 					}
 				},
 				{
@@ -3422,8 +3121,7 @@
 					"group": {
 						"abbreviation": "T54",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 54
+						"type": "Track"
 					}
 				},
 				{
@@ -3433,8 +3131,7 @@
 					"group": {
 						"abbreviation": "T13",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 13
+						"type": "Track"
 					}
 				}
 			]
@@ -3451,8 +3148,7 @@
 					"group": {
 						"abbreviation": "T54",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 54
+						"type": "Track"
 					}
 				},
 				{
@@ -3462,8 +3158,7 @@
 					"group": {
 						"abbreviation": "F34",
 						"condition": "Cerebral palsy",
-						"type": "Field",
-						"level": 34
+						"type": "Field"
 					}
 				},
 				{
@@ -3473,8 +3168,7 @@
 					"group": {
 						"abbreviation": "F41",
 						"condition": "Amputation & Les Autres",
-						"type": "Field",
-						"level": 41
+						"type": "Field"
 					}
 				},
 				{
@@ -3484,8 +3178,7 @@
 					"group": {
 						"abbreviation": "T44",
 						"condition": "Amputation & Les Autres",
-						"type": "Track",
-						"level": 44
+						"type": "Track"
 					}
 				},
 				{
@@ -3495,8 +3188,7 @@
 					"group": {
 						"abbreviation": "T11",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 11
+						"type": "Track"
 					}
 				},
 				{
@@ -3506,8 +3198,7 @@
 					"group": {
 						"abbreviation": "F35",
 						"condition": "Cerebral palsy",
-						"type": "Field",
-						"level": 35
+						"type": "Field"
 					}
 				},
 				{
@@ -3517,8 +3208,7 @@
 					"group": {
 						"abbreviation": "F57",
 						"condition": "Wheelchair",
-						"type": "Field",
-						"level": 57
+						"type": "Field"
 					}
 				},
 				{
@@ -3528,8 +3218,7 @@
 					"group": {
 						"abbreviation": "T12",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 12
+						"type": "Track"
 					}
 				},
 				{
@@ -3539,8 +3228,7 @@
 					"group": {
 						"abbreviation": "T38",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 38
+						"type": "Track"
 					}
 				},
 				{
@@ -3550,8 +3238,7 @@
 					"group": {
 						"abbreviation": "T42",
 						"condition": "Amputation & Les Autres",
-						"type": "Track",
-						"level": 42
+						"type": "Track"
 					}
 				},
 				{
@@ -3561,8 +3248,7 @@
 					"group": {
 						"abbreviation": "T54",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 54
+						"type": "Track"
 					}
 				},
 				{
@@ -3572,8 +3258,7 @@
 					"group": {
 						"abbreviation": "T47",
 						"condition": null,
-						"type": "Track",
-						"level": 47
+						"type": "Track"
 					}
 				},
 				{
@@ -3583,8 +3268,7 @@
 					"group": {
 						"abbreviation": "T44",
 						"condition": "Amputation & Les Autres",
-						"type": "Track",
-						"level": 44
+						"type": "Track"
 					}
 				},
 				{
@@ -3594,8 +3278,7 @@
 					"group": {
 						"abbreviation": "T11",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 11
+						"type": "Track"
 					}
 				},
 				{
@@ -3605,8 +3288,7 @@
 					"group": {
 						"abbreviation": "T53",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 53
+						"type": "Track"
 					}
 				},
 				{
@@ -3616,8 +3298,7 @@
 					"group": {
 						"abbreviation": "T12",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 12
+						"type": "Track"
 					}
 				},
 				{
@@ -3627,30 +3308,27 @@
 					"group": {
 						"abbreviation": "T42",
 						"condition": "Amputation & Les Autres",
-						"type": "Track",
-						"level": 42
+						"type": "Track"
 					}
 				},
 				{
 					"title": "4x400m",
 					"gender": "Women's",
-					"round": "-54 Final",
+					"round": "Final",
 					"group": {
-						"abbreviation": "T53",
+						"abbreviation": "T53-54",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 53
+						"type": "Track"
 					}
 				},
 				{
 					"title": "4x100m",
 					"gender": "Women's",
-					"round": "-38 Final",
+					"round": "Final",
 					"group": {
-						"abbreviation": "T35",
+						"abbreviation": "T35-38",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 35
+						"type": "Track"
 					}
 				},
 				{
@@ -3660,8 +3338,7 @@
 					"group": {
 						"abbreviation": "F35",
 						"condition": "Cerebral palsy",
-						"type": "Field",
-						"level": 35
+						"type": "Field"
 					}
 				},
 				{
@@ -3671,8 +3348,7 @@
 					"group": {
 						"abbreviation": "T53",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 53
+						"type": "Track"
 					}
 				},
 				{
@@ -3682,30 +3358,27 @@
 					"group": {
 						"abbreviation": "T11",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 11
+						"type": "Track"
 					}
 				},
 				{
 					"title": "4x400m",
 					"gender": "Women's",
-					"round": "-54 Victory Ceremony",
+					"round": "Victory Ceremony",
 					"group": {
-						"abbreviation": "T53",
+						"abbreviation": "T53-54",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 53
+						"type": "Track"
 					}
 				},
 				{
 					"title": "4x100m",
 					"gender": "Women's",
-					"round": "-38 Victory Ceremony",
+					"round": "Victory Ceremony",
 					"group": {
-						"abbreviation": "T35",
+						"abbreviation": "T35-38",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 35
+						"type": "Track"
 					}
 				},
 				{
@@ -3715,8 +3388,7 @@
 					"group": {
 						"abbreviation": "F41",
 						"condition": "Amputation & Les Autres",
-						"type": "Field",
-						"level": 41
+						"type": "Field"
 					}
 				},
 				{
@@ -3726,8 +3398,7 @@
 					"group": {
 						"abbreviation": "T38",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 38
+						"type": "Track"
 					}
 				}
 			]
@@ -3744,8 +3415,7 @@
 					"group": {
 						"abbreviation": "T38",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 38
+						"type": "Track"
 					}
 				},
 				{
@@ -3755,8 +3425,7 @@
 					"group": {
 						"abbreviation": "F51",
 						"condition": "Wheelchair",
-						"type": "Field",
-						"level": 51
+						"type": "Field"
 					}
 				},
 				{
@@ -3766,8 +3435,7 @@
 					"group": {
 						"abbreviation": "F55",
 						"condition": "Wheelchair",
-						"type": "Field",
-						"level": 55
+						"type": "Field"
 					}
 				},
 				{
@@ -3777,8 +3445,7 @@
 					"group": {
 						"abbreviation": "T36",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 36
+						"type": "Track"
 					}
 				},
 				{
@@ -3788,8 +3455,7 @@
 					"group": {
 						"abbreviation": "T37",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 37
+						"type": "Track"
 					}
 				},
 				{
@@ -3799,8 +3465,7 @@
 					"group": {
 						"abbreviation": "T47",
 						"condition": null,
-						"type": "Track",
-						"level": 47
+						"type": "Track"
 					}
 				},
 				{
@@ -3810,8 +3475,7 @@
 					"group": {
 						"abbreviation": "F40",
 						"condition": null,
-						"type": "Field",
-						"level": 40
+						"type": "Field"
 					}
 				},
 				{
@@ -3821,8 +3485,7 @@
 					"group": {
 						"abbreviation": "F34",
 						"condition": "Cerebral palsy",
-						"type": "Field",
-						"level": 34
+						"type": "Field"
 					}
 				},
 				{
@@ -3832,8 +3495,7 @@
 					"group": {
 						"abbreviation": "T11",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 11
+						"type": "Track"
 					}
 				},
 				{
@@ -3843,8 +3505,7 @@
 					"group": {
 						"abbreviation": "T20",
 						"condition": "Intellectual disability",
-						"type": "Track",
-						"level": 20
+						"type": "Track"
 					}
 				},
 				{
@@ -3854,8 +3515,7 @@
 					"group": {
 						"abbreviation": "T36",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 36
+						"type": "Track"
 					}
 				},
 				{
@@ -3865,8 +3525,7 @@
 					"group": {
 						"abbreviation": "T47",
 						"condition": null,
-						"type": "Track",
-						"level": 47
+						"type": "Track"
 					}
 				},
 				{
@@ -3876,8 +3535,7 @@
 					"group": {
 						"abbreviation": "T37",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 37
+						"type": "Track"
 					}
 				},
 				{
@@ -3887,8 +3545,7 @@
 					"group": {
 						"abbreviation": "T11",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 11
+						"type": "Track"
 					}
 				},
 				{
@@ -3898,8 +3555,7 @@
 					"group": {
 						"abbreviation": "T20",
 						"condition": "Intellectual disability",
-						"type": "Track",
-						"level": 20
+						"type": "Track"
 					}
 				},
 				{
@@ -3909,19 +3565,17 @@
 					"group": {
 						"abbreviation": "T47",
 						"condition": null,
-						"type": "Track",
-						"level": 47
+						"type": "Track"
 					}
 				},
 				{
 					"title": "4x400m",
 					"gender": "Men's",
-					"round": "-54 Round 1",
+					"round": "Round 1",
 					"group": {
-						"abbreviation": "T53",
+						"abbreviation": "T53-54",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 53
+						"type": "Track"
 					}
 				},
 				{
@@ -3931,8 +3585,7 @@
 					"group": {
 						"abbreviation": "F40",
 						"condition": null,
-						"type": "Field",
-						"level": 40
+						"type": "Field"
 					}
 				},
 				{
@@ -3942,8 +3595,7 @@
 					"group": {
 						"abbreviation": "F51",
 						"condition": "Wheelchair",
-						"type": "Field",
-						"level": 51
+						"type": "Field"
 					}
 				}
 			]
@@ -3960,8 +3612,7 @@
 					"group": {
 						"abbreviation": "T11",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 11
+						"type": "Track"
 					}
 				},
 				{
@@ -3971,8 +3622,7 @@
 					"group": {
 						"abbreviation": "F33",
 						"condition": "Cerebral palsy",
-						"type": "Field",
-						"level": 33
+						"type": "Field"
 					}
 				},
 				{
@@ -3982,8 +3632,7 @@
 					"group": {
 						"abbreviation": "T13",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 13
+						"type": "Track"
 					}
 				},
 				{
@@ -3993,8 +3642,7 @@
 					"group": {
 						"abbreviation": "F36",
 						"condition": "Cerebral palsy",
-						"type": "Field",
-						"level": 36
+						"type": "Field"
 					}
 				},
 				{
@@ -4004,8 +3652,7 @@
 					"group": {
 						"abbreviation": "T11",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 11
+						"type": "Track"
 					}
 				},
 				{
@@ -4015,8 +3662,7 @@
 					"group": {
 						"abbreviation": "F44",
 						"condition": "Amputation & Les Autres",
-						"type": "Field",
-						"level": 44
+						"type": "Field"
 					}
 				},
 				{
@@ -4026,8 +3672,7 @@
 					"group": {
 						"abbreviation": "T11",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 11
+						"type": "Track"
 					}
 				},
 				{
@@ -4037,8 +3682,7 @@
 					"group": {
 						"abbreviation": "F55",
 						"condition": "Wheelchair",
-						"type": "Field",
-						"level": 55
+						"type": "Field"
 					}
 				},
 				{
@@ -4048,8 +3692,7 @@
 					"group": {
 						"abbreviation": "T34",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 34
+						"type": "Track"
 					}
 				},
 				{
@@ -4059,8 +3702,7 @@
 					"group": {
 						"abbreviation": "T47",
 						"condition": null,
-						"type": "Track",
-						"level": 47
+						"type": "Track"
 					}
 				},
 				{
@@ -4070,8 +3712,7 @@
 					"group": {
 						"abbreviation": "T46",
 						"condition": "Amputation & Les Autres",
-						"type": "Track",
-						"level": 46
+						"type": "Track"
 					}
 				},
 				{
@@ -4081,8 +3722,7 @@
 					"group": {
 						"abbreviation": "T11",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 11
+						"type": "Track"
 					}
 				},
 				{
@@ -4092,8 +3732,7 @@
 					"group": {
 						"abbreviation": "T12",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 12
+						"type": "Track"
 					}
 				},
 				{
@@ -4103,8 +3742,7 @@
 					"group": {
 						"abbreviation": "T34",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 34
+						"type": "Track"
 					}
 				},
 				{
@@ -4114,8 +3752,7 @@
 					"group": {
 						"abbreviation": "T46",
 						"condition": "Amputation & Les Autres",
-						"type": "Track",
-						"level": 46
+						"type": "Track"
 					}
 				},
 				{
@@ -4125,8 +3762,7 @@
 					"group": {
 						"abbreviation": "T54",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 54
+						"type": "Track"
 					}
 				},
 				{
@@ -4136,8 +3772,7 @@
 					"group": {
 						"abbreviation": "F36",
 						"condition": "Cerebral palsy",
-						"type": "Field",
-						"level": 36
+						"type": "Field"
 					}
 				},
 				{
@@ -4147,8 +3782,7 @@
 					"group": {
 						"abbreviation": "F44",
 						"condition": "Amputation & Les Autres",
-						"type": "Field",
-						"level": 44
+						"type": "Field"
 					}
 				},
 				{
@@ -4158,8 +3792,7 @@
 					"group": {
 						"abbreviation": "F33",
 						"condition": "Cerebral palsy",
-						"type": "Field",
-						"level": 33
+						"type": "Field"
 					}
 				}
 			]
@@ -4176,8 +3809,7 @@
 					"group": {
 						"abbreviation": "T54",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 54
+						"type": "Track"
 					}
 				},
 				{
@@ -4187,8 +3819,7 @@
 					"group": {
 						"abbreviation": "F57",
 						"condition": "Wheelchair",
-						"type": "Field",
-						"level": 57
+						"type": "Field"
 					}
 				},
 				{
@@ -4198,8 +3829,7 @@
 					"group": {
 						"abbreviation": "F55",
 						"condition": "Wheelchair",
-						"type": "Field",
-						"level": 55
+						"type": "Field"
 					}
 				},
 				{
@@ -4209,8 +3839,7 @@
 					"group": {
 						"abbreviation": "T53",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 53
+						"type": "Track"
 					}
 				},
 				{
@@ -4220,8 +3849,7 @@
 					"group": {
 						"abbreviation": "T47",
 						"condition": null,
-						"type": "Track",
-						"level": 47
+						"type": "Track"
 					}
 				},
 				{
@@ -4231,8 +3859,7 @@
 					"group": {
 						"abbreviation": "T42",
 						"condition": "Amputation & Les Autres",
-						"type": "Track",
-						"level": 42
+						"type": "Track"
 					}
 				},
 				{
@@ -4242,8 +3869,7 @@
 					"group": {
 						"abbreviation": "T13",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 13
+						"type": "Track"
 					}
 				},
 				{
@@ -4253,8 +3879,7 @@
 					"group": {
 						"abbreviation": "F36",
 						"condition": "Cerebral palsy",
-						"type": "Field",
-						"level": 36
+						"type": "Field"
 					}
 				},
 				{
@@ -4264,8 +3889,7 @@
 					"group": {
 						"abbreviation": "T51",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 51
+						"type": "Track"
 					}
 				},
 				{
@@ -4275,8 +3899,7 @@
 					"group": {
 						"abbreviation": "T52",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 52
+						"type": "Track"
 					}
 				},
 				{
@@ -4286,8 +3909,7 @@
 					"group": {
 						"abbreviation": "T35",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 35
+						"type": "Track"
 					}
 				},
 				{
@@ -4297,8 +3919,7 @@
 					"group": {
 						"abbreviation": "T12",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 12
+						"type": "Track"
 					}
 				},
 				{
@@ -4308,8 +3929,7 @@
 					"group": {
 						"abbreviation": "T13",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 13
+						"type": "Track"
 					}
 				},
 				{
@@ -4319,8 +3939,7 @@
 					"group": {
 						"abbreviation": "T51",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 51
+						"type": "Track"
 					}
 				},
 				{
@@ -4330,8 +3949,7 @@
 					"group": {
 						"abbreviation": "T42",
 						"condition": "Amputation & Les Autres",
-						"type": "Track",
-						"level": 42
+						"type": "Track"
 					}
 				},
 				{
@@ -4341,8 +3959,7 @@
 					"group": {
 						"abbreviation": "T52",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 52
+						"type": "Track"
 					}
 				},
 				{
@@ -4352,8 +3969,7 @@
 					"group": {
 						"abbreviation": "T35",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 35
+						"type": "Track"
 					}
 				},
 				{
@@ -4363,8 +3979,7 @@
 					"group": {
 						"abbreviation": "T44",
 						"condition": "Amputation & Les Autres",
-						"type": "Track",
-						"level": 44
+						"type": "Track"
 					}
 				},
 				{
@@ -4374,8 +3989,7 @@
 					"group": {
 						"abbreviation": "T42",
 						"condition": "Amputation & Les Autres",
-						"type": "Track",
-						"level": 42
+						"type": "Track"
 					}
 				},
 				{
@@ -4385,8 +3999,7 @@
 					"group": {
 						"abbreviation": "F36",
 						"condition": "Cerebral palsy",
-						"type": "Field",
-						"level": 36
+						"type": "Field"
 					}
 				},
 				{
@@ -4396,8 +4009,7 @@
 					"group": {
 						"abbreviation": "F57",
 						"condition": "Wheelchair",
-						"type": "Field",
-						"level": 57
+						"type": "Field"
 					}
 				}
 			]
@@ -4410,12 +4022,11 @@
 				{
 					"title": "4x400m",
 					"gender": "Men's",
-					"round": "-54 Final",
+					"round": "Final",
 					"group": {
-						"abbreviation": "T53",
+						"abbreviation": "T53-54",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 53
+						"type": "Track"
 					}
 				},
 				{
@@ -4425,8 +4036,7 @@
 					"group": {
 						"abbreviation": "F32",
 						"condition": "Cerebral palsy",
-						"type": "Field",
-						"level": 32
+						"type": "Field"
 					}
 				},
 				{
@@ -4436,8 +4046,7 @@
 					"group": {
 						"abbreviation": "T11",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 11
+						"type": "Track"
 					}
 				},
 				{
@@ -4447,8 +4056,7 @@
 					"group": {
 						"abbreviation": "T53",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 53
+						"type": "Track"
 					}
 				},
 				{
@@ -4458,8 +4066,7 @@
 					"group": {
 						"abbreviation": "F38",
 						"condition": "Cerebral palsy",
-						"type": "Field",
-						"level": 38
+						"type": "Field"
 					}
 				},
 				{
@@ -4469,8 +4076,7 @@
 					"group": {
 						"abbreviation": "T54",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 54
+						"type": "Track"
 					}
 				},
 				{
@@ -4480,8 +4086,7 @@
 					"group": {
 						"abbreviation": "T38",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 38
+						"type": "Track"
 					}
 				},
 				{
@@ -4491,8 +4096,7 @@
 					"group": {
 						"abbreviation": "T47",
 						"condition": null,
-						"type": "Track",
-						"level": 47
+						"type": "Track"
 					}
 				},
 				{
@@ -4502,8 +4106,7 @@
 					"group": {
 						"abbreviation": "F13",
 						"condition": "Visual impairment",
-						"type": "Field",
-						"level": 13
+						"type": "Field"
 					}
 				},
 				{
@@ -4513,8 +4116,7 @@
 					"group": {
 						"abbreviation": "F55",
 						"condition": "Wheelchair",
-						"type": "Field",
-						"level": 55
+						"type": "Field"
 					}
 				},
 				{
@@ -4524,8 +4126,7 @@
 					"group": {
 						"abbreviation": "T11",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 11
+						"type": "Track"
 					}
 				},
 				{
@@ -4535,8 +4136,7 @@
 					"group": {
 						"abbreviation": "T12",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 12
+						"type": "Track"
 					}
 				},
 				{
@@ -4546,8 +4146,7 @@
 					"group": {
 						"abbreviation": "T44",
 						"condition": "Amputation & Les Autres",
-						"type": "Track",
-						"level": 44
+						"type": "Track"
 					}
 				},
 				{
@@ -4557,8 +4156,7 @@
 					"group": {
 						"abbreviation": "T53",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 53
+						"type": "Track"
 					}
 				},
 				{
@@ -4568,8 +4166,7 @@
 					"group": {
 						"abbreviation": "T54",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 54
+						"type": "Track"
 					}
 				},
 				{
@@ -4579,8 +4176,7 @@
 					"group": {
 						"abbreviation": "T11",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 11
+						"type": "Track"
 					}
 				},
 				{
@@ -4590,8 +4186,7 @@
 					"group": {
 						"abbreviation": "T38",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 38
+						"type": "Track"
 					}
 				},
 				{
@@ -4601,8 +4196,7 @@
 					"group": {
 						"abbreviation": "T12",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 12
+						"type": "Track"
 					}
 				},
 				{
@@ -4612,8 +4206,7 @@
 					"group": {
 						"abbreviation": "T47",
 						"condition": null,
-						"type": "Track",
-						"level": 47
+						"type": "Track"
 					}
 				},
 				{
@@ -4623,8 +4216,7 @@
 					"group": {
 						"abbreviation": "T12",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 12
+						"type": "Track"
 					}
 				},
 				{
@@ -4634,8 +4226,7 @@
 					"group": {
 						"abbreviation": "T36",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 36
+						"type": "Track"
 					}
 				},
 				{
@@ -4645,8 +4236,7 @@
 					"group": {
 						"abbreviation": "T11",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 11
+						"type": "Track"
 					}
 				},
 				{
@@ -4656,8 +4246,7 @@
 					"group": {
 						"abbreviation": "T54",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 54
+						"type": "Track"
 					}
 				},
 				{
@@ -4667,8 +4256,7 @@
 					"group": {
 						"abbreviation": "T12",
 						"condition": "Visual impairment",
-						"type": "Track",
-						"level": 12
+						"type": "Track"
 					}
 				},
 				{
@@ -4678,8 +4266,7 @@
 					"group": {
 						"abbreviation": "F13",
 						"condition": "Visual impairment",
-						"type": "Field",
-						"level": 13
+						"type": "Field"
 					}
 				},
 				{
@@ -4689,8 +4276,7 @@
 					"group": {
 						"abbreviation": "T42",
 						"condition": "Amputation & Les Autres",
-						"type": "Track",
-						"level": 42
+						"type": "Track"
 					}
 				},
 				{
@@ -4700,8 +4286,7 @@
 					"group": {
 						"abbreviation": "T36",
 						"condition": "Cerebral palsy",
-						"type": "Track",
-						"level": 36
+						"type": "Track"
 					}
 				},
 				{
@@ -4711,8 +4296,7 @@
 					"group": {
 						"abbreviation": "F38",
 						"condition": "Cerebral palsy",
-						"type": "Field",
-						"level": 38
+						"type": "Field"
 					}
 				},
 				{
@@ -4722,19 +4306,17 @@
 					"group": {
 						"abbreviation": "F32",
 						"condition": "Cerebral palsy",
-						"type": "Field",
-						"level": 32
+						"type": "Field"
 					}
 				},
 				{
 					"title": "4x400m",
 					"gender": "Men's",
-					"round": "-54 Victory Ceremony",
+					"round": "Victory Ceremony",
 					"group": {
-						"abbreviation": "T53",
+						"abbreviation": "T53-54",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 53
+						"type": "Track"
 					}
 				},
 				{
@@ -4744,8 +4326,7 @@
 					"group": {
 						"abbreviation": "T44",
 						"condition": "Amputation & Les Autres",
-						"type": "Track",
-						"level": 44
+						"type": "Track"
 					}
 				},
 				{
@@ -4755,8 +4336,7 @@
 					"group": {
 						"abbreviation": "T54",
 						"condition": "Wheelchair",
-						"type": "Track",
-						"level": 54
+						"type": "Track"
 					}
 				},
 				{
@@ -4766,8 +4346,7 @@
 					"group": {
 						"abbreviation": "T42",
 						"condition": "Amputation & Les Autres",
-						"type": "Track",
-						"level": 42
+						"type": "Track"
 					}
 				},
 				{
@@ -4777,8 +4356,7 @@
 					"group": {
 						"abbreviation": "T44",
 						"condition": "Amputation & Les Autres",
-						"type": "Track",
-						"level": 44
+						"type": "Track"
 					}
 				},
 				{
@@ -4788,8 +4366,7 @@
 					"group": {
 						"abbreviation": "T44",
 						"condition": "Amputation & Les Autres",
-						"type": "Track",
-						"level": 44
+						"type": "Track"
 					}
 				}
 			]
